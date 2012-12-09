@@ -1,6 +1,6 @@
 <?php
 
-namespace Lit\Utils;
+namespace Lit\Common;
 
 /**
  * Utility class - helps using int value as a "bit flags" container
