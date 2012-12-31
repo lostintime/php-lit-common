@@ -1,0 +1,21 @@
+{
+    "name":"lostintime/php-lit-common",
+    "description":"PHP common usage classes",
+    "minimum-stability":"dev",
+    "authors":[
+        {
+            "name":"lostintime",
+            "email":"lostintime.dev@gmail.com"
+        }
+    ],
+    "keywords":[],
+    "license":"MIT",
+    "autoload":{
+        "psr-0":{
+            "Lit\\Common":"src/"
+        }
+    },
+    "require":{
+        "phpunit/phpunit": "3.7.*"
+    }
+}
